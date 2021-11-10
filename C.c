@@ -1,8 +1,13 @@
-#include<string>
-#include <iostream.h>
-
+#include <iostream>
+#include <fstream>
+#include <cstdlib>
+ 
+using namespace std;
+ 
 int main()
-	{
-		cout>>"Im Erfan Eskandari";
-		return 0;
-	}
+{
+
+    cout << "Im Erfan Eskandari" << endl;
+
+    return 0;
+}
